@@ -1,5 +1,5 @@
 cd ~/Desktop
-rm -rf ~/Desktop/bananaps2.git
-git clone https://github.com/bauom/bananaps2.git
-cd ~/Desktop/bananaps2
+rm -rf ~/Desktop/banana3
+git clone https://github.com/retarded3/banana3.git
+cd ~/Desktop/banana3
 ./run
